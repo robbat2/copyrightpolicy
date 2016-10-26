@@ -61,7 +61,7 @@ The following is the current Gentoo DCO 1.0:
             indefinitely and may be redistributed consistent with this project or
             the open source license(s) involved.</nowiki>
 
-The DCO is based on the Linux Kernel DCO.
+The DCO is based on the [http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/SubmittingPatches Linux Kernel DCO].<br />
 All files hosted by Gentoo must contain an appropriate copyright notice, as defined by this policy.
 
 A proper copyright notice appears near the top of the file, and reads, "Copyright YEAR LARGEST-CONTRIBUTOR and others (see below)." The largest contributor is whatever entity owns copyright to some portion of the largest number of lines in the file. The "and others (see below)" text may be ommitted if the largest contributor holds copyright to the entire file.
