@@ -18,13 +18,13 @@ All Gentoo projects must abide by the
 |-
 ! Project !! License
 |-
-| Portage || TODO
+| Portage || GPL-2
 |-
-| Portage Tree || TODO
+| Portage Tree || GPL-2
 |-
-| Docs || TODO
+| Docs ||  CC-BY-SA-3.0
 |-
-| eudev || TODO
+| eudev || GPL-2+
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
