@@ -9,11 +9,10 @@ This policy documents how Gentoo contributors comply and document copyright for 
 Questions regarding this policy should be directed to the trustees or the -project list. Any concerns over possible copyright violations should be directed to the Trustees if they cannot be worked out to anyone's satisfaction with the appropriate maintainer.
 
 ==== Licensing of Gentoo Projects ====
-All Gentoo projects must abide by the
-[https://www.gentoo.org/get-started/philosophy/social-contract.html Gentoo Social Contract]
-, being published under an Open Source license. The license for each project is documented below.
 
-{| class="wikitable"
+All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philosophy/social-contract.html Gentoo Social Contract], being published under an Open Source license. The license for each project is documented below.
+
+{| class="table table-striped table-condensed."
 |-
 ! Project !! License
 |-
@@ -70,12 +69,14 @@ The following is the current Gentoo DCO 1.0:
             and that a record of the contribution (including all personal
             information I submit with it, including my sign-off) is maintained
             indefinitely and may be redistributed consistent with this project or
-            the open source license(s) involved.</nowiki>
+            the open source license(s) involved.
+</nowiki>
 
-The DCO is based on the [http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/SubmittingPatches Linux Kernel DCO].<br />
+The DCO is based on the [http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/SubmittingPatches Linux Kernel DCO].
+
 All files hosted by Gentoo must contain an appropriate copyright notice, as defined by this policy.
 
-A proper copyright notice appears near the top of the file, and reads, "Copyright YEAR LARGEST-CONTRIBUTOR and others (see below)." The largest contributor is whatever entity owns copyright to some portion of the largest number of lines in the file. The "and others (see below)" text may be ommitted if the largest contributor holds copyright to the entire file.
+A proper copyright notice appears near the top of the file, and reads, "Copyright YEAR LARGEST-CONTRIBUTOR and others (see below)." The largest contributor is whatever entity owns copyright to some portion of the largest number of lines in the file. The "and others (see below)" text may be omitted if the largest contributor holds copyright to the entire file.
 
 If there are other copyright holders, then somewhere in the file the full list of copyright holders must be listed, or a reference to a list in another file stored in a Gentoo repository.
 
@@ -87,11 +88,11 @@ Anyone finding a file out of compliance should log a bug against the associated 
 
 All are welcome and encouraged (but NOT required) to assign copyright for their contributions to the Gentoo Foundation. Doing so makes compliance with this policy easier (fewer copyright holders to list), and allows the Foundation to enforce copyrights and re-license content if appropriate (this will only be done in accordance with the social contract and the FLA).
 
-Copyright is assigned to the Foundation by electronically signing the [https://dev.gentoo.org/~rich0/fla.pdf Gentoo Fiduciary License Agreement (FLA)]. <br />
+Copyright is assigned to the Foundation by electronically signing the [https://dev.gentoo.org/~rich0/fla.pdf Gentoo Fiduciary License Agreement (FLA)].
 
 The agreement may be signed BY<br />
 TODO...<br />
-If the scope of the signed agreeement included future contributions, the contributor may document their wish to stop assigning copyright by<br />
+If the scope of the signed agreement included future contributions, the contributor may document their wish to stop assigning copyright by<br />
 TODO...<br />
 
 A list of those who have signed this agreement and the scope of their assignments may be found at LINK. This list may be useful when attributing copyright.
