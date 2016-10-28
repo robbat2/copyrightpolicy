@@ -31,6 +31,8 @@ All Gentoo projects must abide by the
 |-
 | netifrc || BSD-2 ?
 |-
+| Gentoo Keys || GPL-2 ?
+|-
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
