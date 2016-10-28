@@ -21,9 +21,14 @@ All Gentoo projects must abide by the
 |-
 | Portage Tree || GPL-2
 |-
+| gentoo-keys || GPL-2
+|-
 | Docs ||  CC-BY-SA-3.0
 |-
 | eudev || GPL-2+
+|-
+| netifrc || BSD-2 ?
+|-
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
