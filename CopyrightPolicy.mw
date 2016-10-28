@@ -33,6 +33,8 @@ All Gentoo projects must abide by the
 |-
 | Gentoo Keys || GPL-2
 |-
+| genkernels || ?
+|-
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
