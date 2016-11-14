@@ -1,7 +1,7 @@
 {{Warning|'''The policies on this page have no effect!''' These are draft policies up for discussion, not final versions.}}
 
 == Gentoo Copyright Policy ==
-version 1 alpa
+version 1 alpa<br />
 Date 2016-11-14
 
 This policy documents how Gentoo contributors comply and document copyright for any contributions made to Gentoo. Anyone committing documentation or sources to any repository hosted on Gentoo infrastructure must comply with this policy. 
