@@ -20,6 +20,8 @@ All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philos
 |-
 | Portage Tree || GPL-2
 |-
+| Portage Utils || GPL-2
+|-
 | gentoo-keys || GPL-2
 |-
 | Docs ||  CC-BY-SA-3.0
