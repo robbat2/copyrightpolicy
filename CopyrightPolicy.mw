@@ -46,6 +46,8 @@ All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philos
 |-
 | api.gentoo.org || ?
 |-
+| ruby tinderbox || ?
+|-
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
