@@ -48,6 +48,8 @@ All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philos
 |-
 | ruby tinderbox || ?
 |-
+| stager || ?
+|-
 |}
 
 Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
