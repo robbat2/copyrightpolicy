@@ -42,6 +42,8 @@ Any project hosted on Gentoo infrastructure not listed above must be licensed GP
 
 If you wish to add a new Gentoo project to this page, contact the trustees.
 
+==== Developer Certificate of Origin ====
+
 All commits to Gentoo-hosted repositories must be accompanied by a certificate of origin. The purpose of the certificate is to declare that the content of the commit may be used in accordance with the project license.
 
 For commits made using CVS, the commiter will certify agreement to the DCO by adding "Signed-off-by: Name/email" to the commit message as a separate line. Repoman will add this automatically if DCO_SIGNED_OFF_BY is set to Name/email in make.conf.
