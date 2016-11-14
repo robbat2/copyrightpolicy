@@ -34,6 +34,8 @@ All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philos
 |-
 | Gentoo Keys || GPL-2
 |-
+| hwids || GPL-2
+|-
 | genkernel || ?
 |-
 | api.gentoo.org || ?
