@@ -13,7 +13,7 @@ Questions regarding this policy should be directed to the trustees or the -proje
 Every Gentoo project must abide by the Gentoo Social Contract and release its work under one or more of the following:
 <ol type="a">
   <li>The GNU General Public License, version 2 or later (GPL-2+).</li>
-  <li>The Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA-3.0, only for documentation).</li>
+  <li>The Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA-3.0, only for documentation). ''[Note: or version 4.0, to be decided]''</li>
   <li>A license approved as [https://www.gnu.org/licenses/license-list.en.html#GPLCompatibleLicenses GPL compatible] by the Free Software Foundation.</li>
 </ol>
 Exceptions for other free software licenses will be granted by the Gentoo Foundation on a case by case basis.
