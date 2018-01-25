@@ -20,41 +20,40 @@ Exceptions for other free software licenses will be granted by the Gentoo Founda
 
 For easy reference, the license for each project should be documented at [[Project:Licenses/Licensing of Gentoo projects]].
 
-==== Developer Certificate of Origin ====
+==== Gentoo Developer's Certificate of Origin ====
 
 All commits to Gentoo-hosted repositories must be accompanied by a certificate of origin. The purpose of the certificate is to declare that the content of the commit may be used in accordance with the project license.
 
-For commits made using CVS, the commiter will certify agreement to the DCO by adding "Signed-off-by: Name/email" to the commit message as a separate line. Repoman will add this automatically if DCO_SIGNED_OFF_BY is set to Name/email in make.conf.
+For commits made using CVS, the commiter will certify agreement to the Gentoo DCO by adding "Signed-off-by: Name/email" to the commit message as a separate line. Repoman will add this automatically if DCO_SIGNED_OFF_BY is set to Name/email in make.conf.
 
 The following is the current Gentoo DCO 1.0:
 
- <nowiki>
-                              Gentoo DCO 1.0  
+<pre>
+    Gentoo Developer's Certificate of Origin 1.0
 
-        By making a contribution to this project, I certify that:
+    By making a contribution to this project, I certify that:
 
-        (a) The contribution was created in whole or in part by me and I have the
-            right to submit it under the open source license indicated in the file;
-            or
+    (a) The contribution was created in whole or in part by me and I have
+        the right to submit it under the free software license indicated
+        in the file; or
 
-        (b) The contribution is based upon previous work that, to the best of my
-            knowledge, is covered under an appropriate open source license and I
-            have the right under that license to submit that work with
-            modifications, whether created in whole or in part by me, under the same
-            open source license (unless I am permitted to submit under a different
-            license), as indicated in the file; or
+    (b) The contribution is based upon previous work that, to the best
+        of my knowledge, is covered under an appropriate free software
+        license and I have the right under that license to submit that
+        work with modifications, whether created in whole or in part by
+        me, under the same free software license (unless I am permitted
+        to submit under a different license), as indicated in the file; or
 
-        (c) The contribution was provided directly to me by some other person who
-            certified (a), (b) or (c) and I have not modified it.
+    (c) The contribution was provided directly to me by some other person
+        who certified (a), (b) or (c) and I have not modified it.
 
-        (d) I understand and agree that this project and the contribution are public
-            and that a record of the contribution (including all personal
-            information I submit with it, including my sign-off) is maintained
-            indefinitely and may be redistributed consistent with this project or
-            the open source license(s) involved.
-</nowiki>
-
-The DCO is based on the [http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/Documentation/SubmittingPatches Linux Kernel DCO].
+    I understand and agree that this project and the contribution are
+    public and that a record of the contribution (including all personal
+    information I submit with it, including my sign-off) is maintained
+    indefinitely and may be redistributed consistent with this project or
+    the free software license(s) involved.
+</pre>
+<i>The Gentoo DCO is based on the [https://web.archive.org/web/20060524185355/http://www.osdlab.org/newsroom/press_releases/2004/2004_05_24_dco.html Linux Kernel DCO], released by Open Source Development Labs, Inc. in 2005 under a CC-BY-SA-2.5 License, and distributed by the Linux Foundation as [https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/submitting-patches.rst part of the kernel source tree] under GPL-2.</i>
 
 ==== Special license ====
 
