@@ -10,51 +10,15 @@ Questions regarding this policy should be directed to the trustees or the -proje
 
 ==== Licensing of Gentoo Projects ====
 
-All Gentoo projects must abide by the [https://www.gentoo.org/get-started/philosophy/social-contract.html Gentoo Social Contract], being published under an Open Source license. The license for each project is documented below.
+Every Gentoo project must abide by the Gentoo Social Contract and release its work under one or more of the following:
+<ol type="a">
+  <li>The GNU General Public License, version 2 or later (GPL-2+).</li>
+  <li>The Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA-3.0, only for documentation).</li>
+  <li>A license approved as [https://www.gnu.org/licenses/license-list.en.html#GPLCompatibleLicenses GPL compatible] by the Free Software Foundation.</li>
+</ol>
+Exceptions for other free software licenses will be granted by the Gentoo Foundation on a case by case basis.
 
-{| class="table table-striped table-condensed."
-|-
-! Project !! License
-|-
-| Portage || GPL-2
-|-
-| Gentoo Repository || GPL-2
-|-
-| Portage Utils || GPL-2
-|-
-| gentoo-keys || GPL-2
-|-
-| Docs ||  CC-BY-SA-3.0
-|-
-| devmanual ||  CC-BY-SA-3.0
-|-
-| eudev || GPL-2+
-|-
-| netifrc || BSD-2 ?
-|-
-| Gentoo Keys || GPL-2
-|-
-| April fool overlay || GPL-2
-|-
-| java-ebuilder || MIT
-|-
-| Gentoo syntax || Vim
-|-
-| hwids || GPL-2
-|-
-| genkernel || ?
-|-
-| api.gentoo.org || ?
-|-
-| ruby tinderbox || ?
-|-
-| stager || ?
-|-
-|}
-
-Any project hosted on Gentoo infrastructure not listed above must be licensed GPL-2+.
-
-If you wish to add a new Gentoo project to this page, contact the trustees.
+For easy reference, the license for each project should be documented at [[Project:Licenses/Licensing of Gentoo projects]].
 
 ==== Developer Certificate of Origin ====
 
