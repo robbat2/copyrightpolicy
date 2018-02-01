@@ -8,7 +8,7 @@ Type: Informational
 Status: Draft
 Version: 1
 Created: 2013-04-23
-Last-Modified: 2018-01-28
+Last-Modified: 2018-02-01
 Post-History: 
 Content-Type: text/x-rst
 ---
@@ -125,27 +125,15 @@ Copyright Attribution
 All files hosted by Gentoo must contain an appropriate copyright
 notice, as defined by this policy.
 
-A proper copyright notice appears near the top of the file, and reads,
-``Copyright YEAR LARGEST-CONTRIBUTOR and others (see below).``
+A proper copyright notice appears near the top of the file, and reads::
+
+    Copyright YEARS LARGEST-CONTRIBUTOR [OTHER-CONTRIBUTORS] and others
+
 The largest contributor is whatever entity owns copyright to some
-portion of the largest number of lines in the file.  The ``and others
-(see below)`` text may be omitted if the largest contributor holds
-copyright to the entire file.
-
-If there are other copyright holders, then somewhere in the file the
-full list of copyright holders must be listed, or a reference to a
-list in another file stored in a Gentoo repository.
-
-No file may be committed to a Gentoo repository unless at least 60% of
-the lines in the file are accounted for in the list of copyright
-holders.  Any content already in a Gentoo repository as of DATE shall
-count towards the 60% rule even if not attributed.  Note that 60% is
-the minimum required for compliance with this policy - all
-contributors are strongly encouraged to strive for 100% attribution.
-
-It is the responsibility of anyone making a commit to update the
-contributor list for any additions made to the repository.  Committers
-are not required to double-check content already in the repository.
+portion of the largest number of lines in the file.  Additional
+contributors can be listed, but this is neither required nor
+recommended.  The “and others” text may be omitted if the explicitly
+listed contributors hold copyright to the entire file.
 
 Anyone finding a file out of compliance should log a bug against the
 associated project/package providing as much information as possible.
