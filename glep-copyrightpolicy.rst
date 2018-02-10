@@ -8,7 +8,7 @@ Type: Informational
 Status: Draft
 Version: 1
 Created: 2013-04-23
-Last-Modified: 2018-02-01
+Last-Modified: 2018-02-10
 Post-History: 
 Content-Type: text/x-rst
 ---
@@ -114,9 +114,7 @@ The following is the current Gentoo DCO 1.0::
 The Gentoo DCO is licensed under a Creative Commons
 Attribution-ShareAlike 3.0 Unported License [#CC-BY-SA-3.0]_.
 It is based on the Linux Kernel DCO [#OSDL-DCO]_, released by Open
-Source Development Labs, Inc. in 2005 under a CC-BY-SA-2.5 License,
-and distributed by the Linux Foundation as part of the kernel source
-tree [#SUBMITTING-PATCHES]_ under GPL-2.
+Source Development Labs, Inc. in 2005 under a CC-BY-SA-2.5 License.
 
 
 Copyright Attribution
@@ -189,10 +187,6 @@ References
 
 .. [#OSDL-DCO] Developer's Certificate of Origin 1.1,
    https://web.archive.org/web/20060524185355/http://www.osdlab.org/newsroom/press_releases/2004/2004_05_24_dco.html
-
-.. [#SUBMITTING-PATCHES] Submitting patches: the essential guide to
-   getting your code into the kernel,
-   https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/process/submitting-patches.rst
 
 .. [#FLA] Gentoo Fiduciary License Agreement,
    https://dev.gentoo.org/~rich0/fla.pdf
