@@ -28,6 +28,33 @@ Abstract
 Motivation
 ==========
 
+In the past Gentoo developers signed contributor licensing agreements
+formally assigning copyright to the Gentoo Foundation, and copyright headers
+in individual files reflected this.  Then at some point in time these formal
+agreements no longer were being signed, but the headers remained, and were
+enshirned in policy.  This led to a situation where copyright ownership
+might be ambiguous.
+
+Also, the general policy to have Gentoo Foundation copyright notices
+caused an issue when Gentoo developers forked another project and hosted
+the fork on Gentoo infrastructure.  To comply with the previous policy
+the copyright notices were modified, which caused concerns with the 
+project the files were forked from.  Our previous policy completely
+neglected the possibility that Gentoo might want to host files that 
+were not created internally.
+
+Finally, since the early days of Gentoo new ideas around copyright
+licensing have become more popular, such as the FSFe's Fiduciary
+License Agreement, which takes a copyleft approach to copyright licensing,
+while also better complying with copyright laws in nations that have
+author's rights.
+
+The goal here was to create a policy that was both flexible enough to cover
+forks and situations where Gentoo would not own the majority of the
+copyright in a file, while also preserving our ability to formally
+own copyrights on as much of our works as possible.
+
+
 
 Specification
 =============
