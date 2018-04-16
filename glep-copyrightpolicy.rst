@@ -1,5 +1,5 @@
 ---
-GLEP: XXX
+GLEP: 76
 Title: Copyright Policy
 Author: Richard Freeman <rich0@gentoo.org>,
         Alice Ferrazzi <alicef@gentoo.org>,
@@ -8,7 +8,7 @@ Type: Informational
 Status: Draft
 Version: 1
 Created: 2013-04-23
-Last-Modified: 2018-02-10
+Last-Modified: 2018-04-16
 Post-History: 
 Content-Type: text/x-rst
 ---
