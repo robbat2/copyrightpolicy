@@ -45,7 +45,7 @@ were not created internally.
 
 Finally, since the early days of Gentoo new ideas around copyright
 licensing have become more popular, such as the FSFe's Fiduciary
-License Agreement, which takes a copyleft approach to copyright licensing,
+License Agreement [#FLA]_, which takes a copyleft approach to copyright licensing,
 while also better complying with copyright laws in nations that have
 author's rights.
 
@@ -176,10 +176,10 @@ for their contributions to the Gentoo Foundation.  Doing so makes
 compliance with this policy easier (fewer copyright holders to list),
 and allows the Foundation to enforce copyrights and re-license content
 if appropriate (this will only be done in accordance with the social
-contract and the FLA).
+contract and the Gentoo FLA).
 
 Copyright is assigned to the Foundation by electronically signing the
-Gentoo Fiduciary License Agreement (FLA) [#FLA]_.
+Gentoo Fiduciary License Agreement (FLA) [#GFLA]_.
 
 The agreement may be signed BY **TODO...**  If the scope of the signed
 agreement included future contributions, the contributor may document
@@ -215,7 +215,10 @@ References
 .. [#OSDL-DCO] Developer's Certificate of Origin 1.1,
    https://web.archive.org/web/20060524185355/http://www.osdlab.org/newsroom/press_releases/2004/2004_05_24_dco.html
 
-.. [#FLA] Gentoo Fiduciary License Agreement,
+.. [#FLA] FSFe Legal: Fiduciary Licence Agreement (FLA),
+   https://fsfe.org/activities/ftf/fla.en.html
+
+.. [#GFLA] Gentoo Fiduciary License Agreement,
    https://dev.gentoo.org/~rich0/fla.pdf
 
 
