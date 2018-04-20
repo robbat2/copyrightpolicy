@@ -8,7 +8,7 @@ Type: Informational
 Status: Draft
 Version: 1
 Created: 2013-04-23
-Last-Modified: 2018-04-16
+Last-Modified: 2018-04-20
 Post-History: 
 Content-Type: text/x-rst
 ---
@@ -32,7 +32,7 @@ In the past Gentoo developers signed contributor licensing agreements
 formally assigning copyright to the Gentoo Foundation, and copyright headers
 in individual files reflected this.  Then at some point in time these formal
 agreements no longer were being signed, but the headers remained, and were
-enshirned in policy.  This led to a situation where copyright ownership
+enshrined in policy.  This led to a situation where copyright ownership
 might be ambiguous.
 
 Also, the general policy to have Gentoo Foundation copyright notices
