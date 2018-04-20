@@ -35,13 +35,13 @@ agreements no longer were being signed, but the headers remained, and were
 enshrined in policy.  This led to a situation where copyright ownership
 might be ambiguous.
 
-Also, the general policy to have Gentoo Foundation copyright notices
-caused an issue when Gentoo developers forked another project and hosted
-the fork on Gentoo infrastructure.  To comply with the previous policy
-the copyright notices were modified, which caused concerns with the 
-project the files were forked from.  Our previous policy completely
-neglected the possibility that Gentoo might want to host files that 
-were not created internally.
+Also, the policy to have copyright notices ascribing copyright ownership to the
+Gentoo Foundation caused an issue when Gentoo developers forked another project
+and hosted the fork on Gentoo infrastructure.  To comply with the previous
+policy the copyright notices were modified, which caused concerns with the
+project the files were forked from.  Our previous policy completely neglected
+the possibility that Gentoo might want to host files that were not created
+internally.
 
 Finally, since the early days of Gentoo new ideas around copyright
 licensing have become more popular, such as the FSFe's Fiduciary
