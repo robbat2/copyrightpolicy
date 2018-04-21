@@ -3,7 +3,8 @@ GLEP: 76
 Title: Copyright Policy
 Author: Richard Freeman <rich0@gentoo.org>,
         Alice Ferrazzi <alicef@gentoo.org>,
-        Ulrich Müller <ulm@gentoo.org>
+        Ulrich Müller <ulm@gentoo.org>,
+        Robin H. Johnson <robbat2@gentoo.org>
 Type: Informational
 Status: Draft
 Version: 1
@@ -28,14 +29,34 @@ Abstract
 Motivation
 ==========
 
-In the past Gentoo developers signed contributor licensing agreements
-formally assigning copyright to the Gentoo Foundation, and copyright headers
-in individual files reflected this.  Then at some point in time these formal
-agreements no longer were being signed, but the headers remained, and were
-enshrined in policy.  This led to a situation where copyright ownership
-might be ambiguous.
+The copyright ownership of Gentoo materials is ambigious due to
+historical factors, and this GLEP attempts to improve the process
+going forward.
 
-Also, the policy to have copyright notices ascribing copyright ownership to the
+In the beginning (2000 or earlier), the copyright header stated that
+*Gentoo Technologies, Inc.* was the copyright holder, without any
+formal paperwork.  The formal assignment document was however only
+introduced in early 2004.  The assignment had many objectors (mostly
+on the ``gentoo-core`` mailing list).  The developer recruiting
+procedures attempted to require signing of the document as a condition
+for becoming a developer, but it was not applied to pre-existing
+developers, or those that objected.
+
+Later, the *Gentoo Foundation* was established, and copyrights were
+formally transfered (including nullifying original developer
+assignments to *Gentoo Technologies, Inc.*), and the copyright header
+was updated.  The formal assignment document text was updated in 2006,
+but the formal assignment process had already been abandoned in
+mid-2004.
+
+Throughout this, the presence of copyright headers existed as a
+policy, and continues to exist to this day.  Some files also still
+contain or have in the past contained additional copyright headers,
+attributing ownership to other parties.
+
+A detailed historical timeline is provided below [TODO: link]
+
+The policy to have copyright notices ascribing copyright ownership to the
 Gentoo Foundation caused an issue when Gentoo developers forked another project
 and hosted the fork on Gentoo infrastructure.  To comply with the previous
 policy the copyright notices were modified, which caused concerns with the
@@ -192,6 +213,74 @@ attributing copyright.
 
 Rationale
 =========
+
+Key dates in Gentoo copyright history
+=====================================
+
+* 2000-01-03: *Gentoo Technologies, Inc.* established in New Mexico.
+
+* 2000-07-28: `Earliest known CVS commit
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/header.txt?revision=1.1&view=markup>`_
+  in the Gentoo CVS repositories.  Made by Daniel Robbins to
+  ``gentoo-x86/header.txt``
+  ::
+
+    # Copyright 1999-2000 Gentoo Technologies, Inc.
+    # Distributed under the terms of the GNU General Public License, v2 or later
+    # $header$
+
+
+* 2000-10-09: `Earliest known version of the ebuild skeleton
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/skel.ebuild?revision=1.1&view=markup>`_.
+  (``skel.ebuild``) in CVS
+
+* 2004-01-20: Copyright assignment document added to CVS, with an
+  assignee of *Gentoo Technologies, Inc.*, in both `text
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/htdocs/proj/en/devrel/copyright/assignment.txt?hideattic=0&view=log>`_
+  and `PDF
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/htdocs/proj/en/devrel/copyright/assignment.pdf?hideattic=0&view=log>`_
+  formats.  A related GuideXML page is `included
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/htdocs/proj/en/devrel/copyright-assignment/index.xml?hideattic=0&view=log>`_.
+
+* 2004-05-28: *Gentoo Foundation, Inc.* established in New Mexico.
+
+* 2004-07-12 or earlier: The recruiters stopped requiring the
+  assignment document.  **TODO: document when/who/where recruiters were
+  told to stop using the document.**
+
+* 2005-05-19: Gentoo Technologies, Inc. files an **Assignment of
+  Copyright** document, signed by Daniel Robbins, which transfers any
+  copyrights held by *Gentoo Technologies, Inc.* over `All files to
+  which Gentoo Technologies, Inc. may hold the copyright that existed
+  in the Gentoo Concurrent Versions System (CVS) Repositories as of 25
+  June 2004`.
+
+* 2005-06-13: *Gentoo Technologies, Inc.* files a **recordation of
+  copyright** with the United States Copyright Office, signed by
+  Daniel Robbins, President.  The copyright is asserted over `Gentoo
+  Concurrent Versions System (CVS) Repositories as of 25 June 2004`.
+
+* 2005-06-13: *Gentoo Technologies, Inc.* provides a **Release from
+  Contract Requirements** document, signed by Daniel Robbins.  The
+  complete body of the document is as follows:
+  ::
+    Gentoo Technologies, Inc. does hereby release all individuals who
+    have signed the contract known as the "Gentoo Technologies, Inc.
+    Copyright Assignment Form" from future duties and obligations
+    these individuals associated with that contract.  As of this date
+    any provision of that contract requiring any future duties is
+    hereby nullified.
+
+* 2005-06-25: First CVS commit `changing
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/header.txt?revision=1.10&view=markup>`_
+  copyright header to *Gentoo Foundation*.
+
+* 2006-08-23: Copyright assignment document assignee `updated
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/htdocs/proj/en/devrel/copyright/assignment.txt?hideattic=0&r1=1.1&r2=1.2>`_
+  to *Gentoo Foundation, Inc.*
+
+* 2007-01-27: Copyright assignment document `removed
+  <https://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo/xml/htdocs/proj/en/devrel/copyright/assignment.txt?view=log&hideattic=0>`_.
 
 
 References
