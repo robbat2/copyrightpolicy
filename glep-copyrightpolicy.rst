@@ -35,17 +35,17 @@ agreements no longer were being signed, but the headers remained, and were
 enshrined in policy.  This led to a situation where copyright ownership
 might be ambiguous.
 
-Also, the general policy to have Gentoo Foundation copyright notices
-caused an issue when Gentoo developers forked another project and hosted
-the fork on Gentoo infrastructure.  To comply with the previous policy
-the copyright notices were modified, which caused concerns with the 
-project the files were forked from.  Our previous policy completely
-neglected the possibility that Gentoo might want to host files that 
-were not created internally.
+Also, the policy to have copyright notices ascribing copyright ownership to the
+Gentoo Foundation caused an issue when Gentoo developers forked another project
+and hosted the fork on Gentoo infrastructure.  To comply with the previous
+policy the copyright notices were modified, which caused concerns with the
+project the files were forked from.  Our previous policy completely neglected
+the possibility that Gentoo might want to host files that were not created
+internally.
 
 Finally, since the early days of Gentoo new ideas around copyright
 licensing have become more popular, such as the FSFe's Fiduciary
-License Agreement, which takes a copyleft approach to copyright licensing,
+License Agreement [#FLA]_, which takes a copyleft approach to copyright licensing,
 while also better complying with copyright laws in nations that have
 author's rights.
 
@@ -176,10 +176,10 @@ for their contributions to the Gentoo Foundation.  Doing so makes
 compliance with this policy easier (fewer copyright holders to list),
 and allows the Foundation to enforce copyrights and re-license content
 if appropriate (this will only be done in accordance with the social
-contract and the FLA).
+contract and the Gentoo FLA).
 
 Copyright is assigned to the Foundation by electronically signing the
-Gentoo Fiduciary License Agreement (FLA) [#FLA]_.
+Gentoo Fiduciary License Agreement (FLA) [#GFLA]_.
 
 The agreement may be signed BY **TODO...**  If the scope of the signed
 agreement included future contributions, the contributor may document
@@ -215,7 +215,10 @@ References
 .. [#OSDL-DCO] Developer's Certificate of Origin 1.1,
    https://web.archive.org/web/20060524185355/http://www.osdlab.org/newsroom/press_releases/2004/2004_05_24_dco.html
 
-.. [#FLA] Gentoo Fiduciary License Agreement,
+.. [#FLA] FSFe Legal: Fiduciary Licence Agreement (FLA),
+   https://fsfe.org/activities/ftf/fla.en.html
+
+.. [#GFLA] Gentoo Fiduciary License Agreement,
    https://dev.gentoo.org/~rich0/fla.pdf
 
 
